@@ -1,4 +1,4 @@
-package com.bohdanov.bootounter.ui
+package com.bohdanov.bootounter.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
